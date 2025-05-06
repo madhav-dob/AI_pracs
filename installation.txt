@@ -12,3 +12,9 @@ After installation, run:
 swipl
 
 
+
+
+if your arrows dont work run these cmds  :
+
+sudo apt-get install libreadline-dev
+sudo apt-get install swi-prolog
